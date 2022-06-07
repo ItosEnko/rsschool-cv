@@ -24,7 +24,7 @@ A novice developer with an analytical mindset and burning eyes. As an employee o
 ## Code example ##
 *in progress*
 ## Experience ##
-*in progress*
+CV *in progress*
 ## Education ##
 RS Schools Course "JavaScript/Front-end. Stage 0" *in progress*
 ## Languages ##
