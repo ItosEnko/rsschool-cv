@@ -1,12 +1,12 @@
 # **Nikita Savchenko**
-## Contacts ##
+## Contacts
 * **Location** Minsk, Belarus
 * **Phone:** +375291481373
 * **E-mail:** armavel18111993@gmail.com
 * **GitHub:** [ItosEnko](https://github.com/ItosEnko)
 * **Discord:** Itos (@ItosEnko)
 
-## About ##
+## About
 A novice developer with an analytical mindset and burning eyes. As an employee of an international company, I have grown from the position of Internal Audit Specialist to Right Execution Daily Executive, and I do not stop working on self-development. Development attracts me with the possibility of new challenges and self-development. This is an area in which I can maximize my potential and skills.
 
 ### *Strengths*
@@ -15,20 +15,22 @@ A novice developer with an analytical mindset and burning eyes. As an employee o
 * Adaptability
 * Learnability
 
-## Skills ##
+## Skills
 * **HTML**
 * **CSS**
 * **Git**
 * **JS/Frontend** *in progress*
 
-## Code example ##
+## Code example
 *in progress*
 
-## Experience ##
+## Experience
 CV *in progress*
-## Education ##
+
+## Education
 RS Schools Course "JavaScript/Front-end. Stage 0" *in progress*
-## Languages ##
+
+## Languages
 * **Russian -** native
 * **English -** A1
 * **Chinese -** HSK3
