@@ -1,1 +1,1 @@
-https://ItosEnko.github.io/rsschool-cv/cv
+https://ItosEnko.github.io/rsschool-cv/
